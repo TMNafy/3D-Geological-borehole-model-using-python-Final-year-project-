@@ -7,6 +7,7 @@ leading vulnerability analysis with respect to subsurface structures.
 
 
 #Pre-requisite 
+
 The pre-requisite skills and knowledge required for various roles is detailed below.
 Pre-requisite for Developers
 Developers who are going to run the system should be comfortable with the use of 
@@ -14,7 +15,9 @@ Developers who are going to run the system should be comfortable with the use of
 • Machine Learning
 • Jupyter Notebook
 • Need basic knowledge about geology and geological model.
-Requirements
+
+#Requirements
+
 The minimum requirements for running the system required to operate the Gempy are listed 
 below:
 • Microsoft Windows 10
@@ -24,7 +27,9 @@ below:
 Supported web browsers include
 • Mozilla firefox
 • Google Chrome
-Installation GemPy
+
+#Installation GemPy
+
 At first need to install the Anaconda version of Python but due to conflictive packages we 
 recommended to use mini-conda. Once install the the python we recommend installing the 
 Gempy using,
