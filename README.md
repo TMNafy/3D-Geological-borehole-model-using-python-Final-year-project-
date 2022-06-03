@@ -4,7 +4,9 @@ developing complex 3D geographical models including different highlights, for ex
 structures, unconformities, and fault network, considering underlying powerful implicit approach. 
 From the beginning, GemPy was intended to be handily implanted in probabilistic systems for 
 leading vulnerability analysis with respect to subsurface structures.
-Pre-requisite 
+
+
+#Pre-requisite 
 The pre-requisite skills and knowledge required for various roles is detailed below.
 Pre-requisite for Developers
 Developers who are going to run the system should be comfortable with the use of 
